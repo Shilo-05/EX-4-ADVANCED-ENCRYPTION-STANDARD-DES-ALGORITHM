@@ -1,5 +1,12 @@
 # ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 
+
+```
+Name: Oswald Shilo
+Register No : 212223040139
+```
+
+
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -10,10 +17,7 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
-```
-Name: Abdur Rahman Basil A H
-Register No : 212223040002
-```
+
 
 ```c
 #include <stdio.h>
