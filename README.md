@@ -1,12 +1,8 @@
 # ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-
-
 ```
 Name: Oswald Shilo
 Register No : 212223040139
 ```
-
-
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
